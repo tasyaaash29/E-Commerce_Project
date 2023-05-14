@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -52,7 +53,7 @@
   <div class="header_section">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="logo" href="index.html"><img src="images/logo2.png" width="200px"></a>
+        <a class="logo" href="index.php"><img src="images/logo2.png" width="200px"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -60,13 +61,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home</a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="produk.php">Product</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="blog.html">Blog</a>
+              <a class="nav-link" href="blog.php">Blog</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="dashboard/login.html">Log In</a>
@@ -227,7 +228,7 @@
           <h2 class="useful_text">Useful link </h2>
           <div class="footer_menu">
             <ul>
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><a href="about.html">About</a></li>
               <li><a href="contact.html">Contact Us</a></li>
             </ul>

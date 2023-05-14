@@ -42,7 +42,7 @@
                         <li><a class="dropdown-item" href="#!">Settings</a></li>
                         <li><a class="dropdown-item" href="#!">Activity Log</a></li>
                         <li><hr class="dropdown-divider" /></li>
-                        <li><a class="dropdown-item" href="../index.html">Logout</a></li>
+                        <li><a class="dropdown-item" href="../index.php">Logout</a></li>
                     </ul>
                 </li>
             </ul>
@@ -53,7 +53,7 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading">Menu</div>
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="index.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-arrow-left"></i></div>
                                 Log Out
                             </a>
